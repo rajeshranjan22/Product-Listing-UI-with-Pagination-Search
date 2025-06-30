@@ -27,7 +27,8 @@ This is a responsive product listing application built using **React**, **Vite**
 
 ## 🚀 Getting Started
 
-![image](https://github.com/user-attachments/assets/1432e9db-58b0-4385-9e8c-3df02003df54)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/b7c7f890-e1f7-4f1a-91dc-b2a1a8260c60)
 
 
 ### 1. Clone the Repository
